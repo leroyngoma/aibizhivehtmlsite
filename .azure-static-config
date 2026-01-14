@@ -1,0 +1,3 @@
+RESOURCE_GROUP="aibizhivesite"
+STATIC_WEB_APP_NAME="aibizhive-site"
+LOCATION="westus2"

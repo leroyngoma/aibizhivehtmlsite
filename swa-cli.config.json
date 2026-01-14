@@ -1,0 +1,13 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "aibizhive-site": {
+      "appLocation": ".",
+      "outputLocation": ".",
+      "appBuildCommand": "",
+      "apiBuildCommand": "",
+      "run": "",
+      "appDevserverUrl": ""
+    }
+  }
+}
