@@ -4,10 +4,11 @@
     "aibizhive-site": {
       "appLocation": ".",
       "outputLocation": ".",
-      "appBuildCommand": "",
+      "appBuildCommand": "echo 'No build required'",
       "apiBuildCommand": "",
       "run": "",
-      "appDevserverUrl": ""
+      "appDevserverUrl": "",
+      "skipAppBuild": true
     }
   }
 }
